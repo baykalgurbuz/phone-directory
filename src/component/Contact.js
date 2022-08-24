@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import Form from './Form';
-import List from './List';
+import Form from '../component/Form';
+import List from '../component/List';
 import PropTypes from 'prop-types';
 
 
