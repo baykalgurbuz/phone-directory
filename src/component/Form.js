@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import '../List.css'
+import '../styling/List.css'
 class Form extends Component {
     constructor(){
         super();

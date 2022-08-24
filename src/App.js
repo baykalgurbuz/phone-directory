@@ -1,5 +1,5 @@
 import Contact from './component/Contact';
-import "./App.css";
+import "./styling/App.css";
 import React from "react";
 import { Component } from "react";
 
