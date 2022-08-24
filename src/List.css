@@ -1,0 +1,32 @@
+.listArea{
+  
+}
+input{
+    margin-top: 10px;
+    height: 25px;
+    line-height: 25px;
+    text-indent: 10px;
+    width: 99%;
+}
+.list li{
+    padding: 5px;
+    background-color: #c9c9c9;
+
+}
+.list li span{
+    display: block;
+}
+.list li span.name{
+    float: left;
+}
+.list li span.phone{
+    float: right;
+}
+.list li span.clearfix{
+    clear: both;
+}
+form button{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 20px;
+}
